@@ -4,5 +4,6 @@
 -  Pandas - Series and DataFrame 
 -  Merging DataFrame
 -  GropuBy
+-  apply, aggregate, map
 -  Pivot Tables
 -  Hypothesis Testing
